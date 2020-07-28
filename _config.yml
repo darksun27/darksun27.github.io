@@ -1,21 +1,21 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+title: DarkSun27
+description: 'Porfolio Page'
+url: ''
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
+profilepic: '/images/display_picture.png'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+fontawesome: '/js/fa.js'
+resume: '/resume/SiddharthBatraResume.pdf'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'DarkSun27'
+  email: sbsiddharth@gmail.com
+  twitter_username: darksun2798
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  darksun27
+  linkedin_username:  darksun27
 
 # Build settings
 destination: _site

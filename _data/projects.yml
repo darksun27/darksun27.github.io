@@ -1,26 +1,26 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Debug Container
-  gh_user: tzuehlke
-  repo: DebugContainer
-  img: https://user-images.githubusercontent.com/32843441/62822286-71724400-bb81-11e9-9c0b-59fe58dd39a8.png
-  desc: A fork of the Debug-Container Project from Daniel Meixner. It is based on NodeJS and provides some calls for debugging and for calling other containers. I extended the project with Error-Codes, Sleep-Time, Header-Copy, SSH Server, ...
+- name: Diabetic Retinopathy Detection
+  gh_user: darksun27
+  repo: Diabetic-Retinopathy-Detection
+  img: /images/ascc.png
+  desc: Created a mobile application for detection of Diabetic Retinopathy in patients suffering from diabetes. Used React Native for building the application. For the back-end, used Flask for making the APIs and CNN for the detection of the disease. The dataset for the training was available for public use.
 
-- name: Jekyll Theme
-  gh_user: tzuehlke
-  repo: jekyll-uno-timeline
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
-  desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
+- name: Chrome Extension for Dyslexic People
+  gh_user: darksun27
+  repo: Dyslexia-Chrom-Extension
+  img: /images/extension.png
+  desc: This project aims to provide ease of access in reading and understanding the content of the webpage. According to a study open dyslexic font was invented which is easy to read for dyslexic people. This extension provides the user to change the font of the webpage to OpenDyslexic, change the font size and change the color of the background according to their preferences.
 
-- name: Azure Automation Scripts
-  gh_user: tzuehlke
-  repo: scripts
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+- name: FutureDevs ChatBot
+  gh_user: future-devs
+  repo: FutureDevBot
+  img: /images/chbot.png
+  desc: Creating a chatbot that serves the different request from the Discord Channel of FutureDevs.
 
-- name: Face API
-  gh_user: ArvatoSystems
-  repo: FaceApiWPF
-  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
-  desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream. 
+- name: Secured Image Based Information Sharing System
+  gh_user: darksun27
+  repo: Steganography-Server
+  img: /images/secchat.webp
+  desc: This project aims at sharing sensitive information publicly without the suspicion of any adversaries. The project is an universal system and can be used as both a web application or a mobile based application. The system takes in the user provided text and it returns an image and a key. This key is necessary to retrieve the information in the image. 
