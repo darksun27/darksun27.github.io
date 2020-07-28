@@ -6,7 +6,7 @@ sitemap:
 
 $(document).ready(function () {
   $('a.panel-button').click(function (e) {
-    //if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
+    if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     if ($('.content-wrapper').hasClass('showing')){
       $('.content-wrapper').removeClass('animated slideInRight')
       $('.panel-cover').removeClass('panel-cover--collapsed')
