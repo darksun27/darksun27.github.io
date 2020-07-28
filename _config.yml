@@ -2,7 +2,7 @@
 title: DarkSun27
 description: 'Porfolio Page'
 url: ''
-baseurl: ''
+baseurl: 'https://darksun27.github.io'
 bkimage: '/images/bk1.jpg'
 profilepic: '/images/display_picture.png'
 google_analytics: UA-XXXXXX-X
