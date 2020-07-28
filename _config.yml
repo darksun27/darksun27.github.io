@@ -5,7 +5,6 @@ url: ''
 baseurl: 'https://darksun27.github.io'
 bkimage: '/images/bk1.jpg'
 profilepic: '/images/display_picture.png'
-google_analytics: UA-XXXXXX-X
 fontawesome: '/js/fa.js'
 resume: '/resume/SiddharthBatraResume.pdf'
 
@@ -13,7 +12,6 @@ author:
   name: 'DarkSun27'
   email: sbsiddharth@gmail.com
   twitter_username: darksun2798
-#  facebook_username: joshgerdes
   github_username:  darksun27
   linkedin_username:  darksun27
 
