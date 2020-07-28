@@ -3,7 +3,7 @@ title: DarkSun27
 description: 'Porfolio Page'
 url: ''
 baseurl: 'https://darksun27.github.io'
-bkimage: '/images/bk1.jpg'
+bkimage: '/images/tiled.png'
 profilepic: '/images/display_picture.png'
 fontawesome: '/js/fa.js'
 resume: '/resume/SiddharthBatraResume.pdf'
