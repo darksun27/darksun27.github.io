@@ -18,6 +18,7 @@ $(document).ready(function () {
       return;
     }
     currentWidth = $('.panel-cover').width()
+    console.log(currentWidth);
     if (currentWidth < 960) {
       $('.panel-cover').addClass('panel-cover--collapsed')
       $('.content-wrapper').addClass('animated slideInRight')
