@@ -2,7 +2,7 @@
 title: DarkSun27
 description: 'Porfolio Page'
 url: ''
-baseurl: 'https://www.darksun27.com'
+baseurl: 'darksun27.github.io'
 bkimage: '/images/tiled.webp'
 profilepic: '/images/display_picture.png'
 fontawesome: '/js/fa.js'
